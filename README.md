@@ -73,58 +73,94 @@ XAMPP / Apache
 
 Ambulance-Booking-System/
 
+
 │── admin/
+
 │── user/
+
 │── driver/
+
 │── api/
+
 │── config/
+
 │── assets/
+
 │── index.php
+
 │── login.php
+
 │── register.php
 
 
 ⚙️ Installation & Setup
+
 Clone the repository:
+
 git clone https://github.com/Suraj5280/Ambulance-Booking-And-Traking-System-Website.git
+
 Move project to XAMPP:
+
 C:/xampp/htdocs/
+
 Start XAMPP:
+
 Apache ✔
+
 MySQL ✔
+
 Import Database:
+
 Open phpMyAdmin
+
 Create database (ambulance_db)
+
 Import .sql file
+
 Run Project:
+
 http://localhost/Ambulance-Booking-System/
 
 
 🔐 Default Login Credentials
+
 Admin
+
 Email: admin
+
 Password: admin123
 
 
 📊 System Modules Diagram
+
 User Interface
+
 Driver Interface
+
 Admin Panel
+
 Database System
 
 🚀 Future Enhancements
+
 Real-time GPS Tracking
+
 Mobile Application (Android/iOS)
+
 Emergency SOS Feature
+
 Hospital Integration
 
 📚 Conclusion
+
 This system simplifies ambulance booking and improves emergency response by providing a centralized platform for users, drivers, and administrators.
 
 🙌 Acknowledgement
+
 This project is developed as part of academic coursework for BSc Computer Science.
 
 📎 GitHub Repository
+
 👉 https://github.com/Suraj5280/Ambulance-Booking-And-Traking-System-Website
 
 📜 License
